@@ -16,6 +16,8 @@
 - Databases
 
 📫 Connect with me:
- [LinkedIn] :(www.linkedin.com/in/dasuni-chamathka-59a79a223)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasuni-chamathka-59a79a223)
+
 
 ⭐ Thanks for visiting my profile!
